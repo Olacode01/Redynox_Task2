@@ -1,0 +1,42 @@
+2026-05-14 14:31:43,415  INFO  Loaded config from: config.json
+2026-05-14 14:31:43,415  INFO  Folder './test_files' not found. Creating test files for demo...
+2026-05-14 14:31:43,416  INFO  [DRY RUN] Starting organizer on: ./test_files
+2026-05-14 14:31:43,416  INFO    [WOULD MOVE] index.html  →  Code/
+2026-05-14 14:31:43,416  INFO    [WOULD MOVE] spreadsheet.xlsx  →  Documents/
+2026-05-14 14:31:43,416  INFO    [WOULD MOVE] notes.txt  →  Documents/
+2026-05-14 14:31:43,416  INFO    [WOULD MOVE] video.mp4  →  Videos/
+2026-05-14 14:31:43,416  INFO    [WOULD MOVE] unknown.xyz  →  Others/
+2026-05-14 14:31:43,416  INFO    [WOULD MOVE] script.py  →  Code/
+2026-05-14 14:31:43,416  INFO    [WOULD MOVE] archive.zip  →  Archives/
+2026-05-14 14:31:43,416  INFO    [WOULD MOVE] photo2.png  →  Images/
+2026-05-14 14:31:43,416  INFO    [WOULD MOVE] report.pdf  →  Documents/
+2026-05-14 14:31:43,416  INFO    [WOULD MOVE] photo1.jpg  →  Images/
+2026-05-14 14:31:43,416  INFO    [WOULD MOVE] song.mp3  →  Audio/
+2026-05-14 14:31:43,416  INFO  ──────────────────────────────────────────────────
+2026-05-14 14:31:43,416  INFO  ✅ Done! Moved: 11 | Skipped: 0 | Errors: 0
+2026-05-14 14:31:43,416  INFO  📧 [EMAIL PREVIEW MODE] — message would be sent with the following content:
+2026-05-14 14:31:43,416  INFO  ──────────────────────────────────────────────────
+2026-05-14 14:31:43,417  INFO  To:      recipient@example.com
+2026-05-14 14:31:43,417  INFO  From:    your.email@gmail.com
+2026-05-14 14:31:43,417  INFO  Subject: 📁 File Organizer Report — 2026-05-14 14:31
+2026-05-14 14:31:43,417  INFO  ──────────────────────────────────────────────────
+2026-05-14 14:31:43,417  INFO  File Organizer — Run Summary
+2026-05-14 14:31:43,417  INFO  ==================================================
+2026-05-14 14:31:43,417  INFO  
+2026-05-14 14:31:43,417  INFO  Mode:        DRY RUN
+2026-05-14 14:31:43,417  INFO  Timestamp:   2026-05-14 14:31:43
+2026-05-14 14:31:43,417  INFO  Folder:      ./test_files
+2026-05-14 14:31:43,417  INFO  
+2026-05-14 14:31:43,417  INFO  Results
+2026-05-14 14:31:43,417  INFO  -------
+2026-05-14 14:31:43,417  INFO  Files moved:   11
+2026-05-14 14:31:43,417  INFO  Skipped:       0
+2026-05-14 14:31:43,417  INFO  Errors:        0
+2026-05-14 14:31:43,417  INFO  Status:        ok
+2026-05-14 14:31:43,417  INFO  
+2026-05-14 14:31:43,417  INFO  Log file: ./logs/organizer_log_20260514_143143.txt
+2026-05-14 14:31:43,417  INFO  
+2026-05-14 14:31:43,417  INFO  This is an automated message from the File Organizer.
+2026-05-14 14:31:43,417  INFO  ──────────────────────────────────────────────────
+2026-05-14 14:31:43,417  INFO  📧 [Preview only — no email actually sent.]
+2026-05-14 14:31:43,417  INFO  📄 Log saved to: ./logs/organizer_log_20260514_143143.txt

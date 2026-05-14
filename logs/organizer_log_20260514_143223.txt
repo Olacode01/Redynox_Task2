@@ -1,0 +1,15 @@
+2026-05-14 14:32:23,043  INFO  Loaded config from: config.json
+2026-05-14 14:32:23,043  INFO  Starting organizer on: ./test_files
+2026-05-14 14:32:23,043  INFO    MOVED: index.html  →  Code/
+2026-05-14 14:32:23,043  INFO    MOVED: spreadsheet.xlsx  →  Documents/
+2026-05-14 14:32:23,043  INFO    MOVED: notes.txt  →  Documents/
+2026-05-14 14:32:23,043  INFO    MOVED: video.mp4  →  Videos/
+2026-05-14 14:32:23,044  INFO    MOVED: unknown.xyz  →  Others/
+2026-05-14 14:32:23,044  INFO    MOVED: script.py  →  Code/
+2026-05-14 14:32:23,044  INFO    MOVED: archive.zip  →  Archives/
+2026-05-14 14:32:23,044  INFO    MOVED: photo2.png  →  Images/
+2026-05-14 14:32:23,044  INFO    MOVED: report.pdf  →  Documents/
+2026-05-14 14:32:23,044  INFO    MOVED: photo1.jpg  →  Images/
+2026-05-14 14:32:23,044  INFO    MOVED: song.mp3  →  Audio/
+2026-05-14 14:32:23,044  INFO  ──────────────────────────────────────────────────
+2026-05-14 14:32:23,044  INFO  ✅ Done! Moved: 11 | Skipped: 0 | Errors: 0

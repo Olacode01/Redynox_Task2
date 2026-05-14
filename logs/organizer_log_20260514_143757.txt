@@ -1,0 +1,12 @@
+2026-05-14 14:37:57,022  INFO  Loaded config from: config.json
+2026-05-14 14:37:57,022  INFO  Starting organizer on: ./test_files
+2026-05-14 14:37:57,022  INFO    Skipping directory: Images
+2026-05-14 14:37:57,022  INFO    Skipping directory: Code
+2026-05-14 14:37:57,022  INFO    Skipping directory: Others
+2026-05-14 14:37:57,022  INFO    Skipping directory: Archives
+2026-05-14 14:37:57,022  INFO    Skipping directory: Videos
+2026-05-14 14:37:57,022  INFO    Skipping directory: Audio
+2026-05-14 14:37:57,022  INFO    Skipping directory: Documents
+2026-05-14 14:37:57,022  INFO  ──────────────────────────────────────────────────
+2026-05-14 14:37:57,022  INFO  ✅ Done! Moved: 0 | Skipped: 7 | Errors: 0
+2026-05-14 14:37:57,022  INFO  📄 Log saved to: ./logs/organizer_log_20260514_143757.txt
