@@ -1,1 +1,21 @@
+cat > .gitignore << 'EOF'
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
 venv/
+
+# Logs and test artifacts
+logs/
+test_files/
+junk_folder/
+bad_config.json
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+EOF
